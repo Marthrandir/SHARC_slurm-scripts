@@ -12,7 +12,7 @@ export MODULEPATH=/storage-apps/easybuild-soft/modules/all
 module load ORCA/6.0.0-OpenMPI-4.1.6
 
 module load Python/3
-source /home/martin99/Postprocessing_Tools/SHARC_Dependencies/bin/activate
+source /path/to/the/directory/bin/activate
 
 module load sharc4/4.0.1
 
