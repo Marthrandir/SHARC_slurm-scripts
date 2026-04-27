@@ -15,6 +15,7 @@ module load Boost/1.88.0-GCC-14.2.0
 export BAGEL_NUM_THREADS=8
 module load Python/3
 
+#Aktivacia virtualneho prostredia s nainstalovanymi pythonovskymi zavislostami
 source /path/to/the/directory/bin/activate
 
 module load sharc4/4.0.1
