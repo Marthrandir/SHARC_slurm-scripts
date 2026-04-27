@@ -1,0 +1,5 @@
+Compatible versions of QCH codes (OpenMOLCAS, ORCA 6, BAGEL) with SHARC4.0.1
+
+ORCA 6.0.0 - /storage-apps/software/orca/orca_6_0_0_shared_openmpi416_avx2
+OpenMOLCAS 24.10 - /storage-apps/easybuild-soft/software/OpenMolcas/24.10-intel-2023a 
+BAGEL Version 1.2.2 - /storage-apps/software/bagel/
