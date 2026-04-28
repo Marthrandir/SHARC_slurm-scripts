@@ -15,8 +15,6 @@ source /path/to/the/directory/bin/activate
 
 module load sharc4/4.0.1
 
-conda init
-
 conda activate /storage-apps/software/conda-envs/sharc4.0/
 
 
