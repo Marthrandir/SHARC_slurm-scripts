@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -J "sharc_test" # name of job in SLURM
+#SBATCH -J "SHARC_OpenMOLCAS" # name of job in SLURM
 #SBATCH --account=p853-24-3 # project number
 #SBATCH --partition=testing       # selected partition (short, medium, long)
 #SBATCH --nodes=1
