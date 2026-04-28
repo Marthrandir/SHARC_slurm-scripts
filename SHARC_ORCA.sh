@@ -11,6 +11,7 @@
 export MODULEPATH=/storage-apps/easybuild-soft/modules/all
 module load ORCA/6.0.0-OpenMPI-4.1.6
 
+#Aktivacia virtualneho prostredia s nainstalovanymi pythonovskymi zavislostami
 module load Python/3
 source /path/to/the/directory/bin/activate
 
