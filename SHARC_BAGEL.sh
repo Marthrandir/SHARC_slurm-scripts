@@ -20,8 +20,6 @@ source /path/to/the/directory/bin/activate
 
 module load sharc4/4.0.1
 
-## conda init - zistit, ze co robí toto
-
 conda activate /storage-apps/software/conda-envs/sharc4.0/
 
 USERSCR=`pwd`  ### HOME folder, output
