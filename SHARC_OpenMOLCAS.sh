@@ -9,8 +9,9 @@
 #SBATCH -e stderr.%J.out    # error output
 
 export MODULEPATH=/storage-apps/easybuild-soft/modules/all
-module load Python/3
 
+#Aktivacia virtualneho prostredia s nainstalovanymi pythonovskymi zavislostami
+module load Python/3
 source /path/to/the/directory/bin/activate
 
 module load sharc4/4.0.1
