@@ -1,4 +1,4 @@
-Python packages needed (so far) for succesfully running excited state dynamics with the SHARC suite
+Python packages needed (so far) for successfully running excited state dynamics with the SHARC suite
 
 h5py==3.16.0
 llvmlite==0.47.0
