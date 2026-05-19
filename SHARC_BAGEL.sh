@@ -12,7 +12,7 @@ export MODULEPATH=/storage-apps/easybuild-soft/modules/all
 #Tu pojde cesta k bagelu
 module load intel/2025a
 module load Boost/1.88.0-GCC-14.2.0
-export BAGEL_NUM_THREADS=8
+export BAGEL_NUM_THREADS=2
 module load Python/3
 
 #Aktivacia virtualneho prostredia s nainstalovanymi pythonovskymi zavislostami
